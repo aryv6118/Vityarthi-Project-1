@@ -1,4 +1,5 @@
-1. Problem Statement
+
+1. Problem Statement:
 Managing basic banking operations manually can be time-consuming and prone to errors. The project aims to develop a simple Bank Management System that allows users to create accounts and perform common banking operations such as deposits, withdrawals, transfers, and balance checking through a command-line interface. The system also provides basic account statistics and transaction handling.
 2. Scope of the Project
 The scope of this project is limited to basic banking operations using Python and in-memory data structures. The system supports account creation, deposits, withdrawals, transfers, viewing account information, displaying all accounts, and calculating basic statistics. It also demonstrates the use of Python collections such as lists, tuples, dictionaries, and sets.
