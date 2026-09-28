@@ -1,16 +1,16 @@
 
 1. PROBLEM STATEMENTS:
 Managing basic banking operations manually can be time-consuming and prone to errors. The project aims to develop a simple Bank Management System that allows users to create accounts and perform common banking operations such as deposits, withdrawals, transfers, and balance checking through a command-line interface. The system also provides basic account statistics and transaction handling.
-2. SCOPE OF THE PROJECT
+2. SCOPE OF THE PROJECT:
 The scope of this project is limited to basic banking operations using Python and in-memory data structures. The system supports account creation, deposits, withdrawals, transfers, viewing account information, displaying all accounts, and calculating basic statistics. It also demonstrates the use of Python collections such as lists, tuples, dictionaries, and sets.
 The project does not include a database, online banking, authentication, or real financial transactions.
-3. TARGET USERS
+3. TARGET USERS:
 The primary target users are:
 * Students and beginners learning Python programming.
 * Teachers or instructors demonstrating basic programming concepts.
 * Learners practicing functions, loops, conditional statements, lists, dictionaries, and user input.
 * Small educational projects requiring a simple banking simulation.
-4. HIGH-LEVEL FEATURES
+4. HIGH-LEVEL FEATURES:
 The Bank Management System provides the following major features:
 * Account Creation – Creates a new account with an automatically assigned account number.
 * Deposit Money – Adds money to an existing account after validating the amount.
